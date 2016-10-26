@@ -1,0 +1,21 @@
+[submodule "ucm.cget"]
+	path = ucm.cget
+	url = https://github.com/cget/ucm.cget
+[submodule "googletest.cget"]
+	path = googletest.cget
+	url = https://github.com/cget/googletest.cget
+[submodule "OpenSSL.cget"]
+	path = OpenSSL.cget
+	url = https://github.com/cget/OpenSSL.cget
+[submodule "grpc.cget"]
+	path = grpc.cget
+	url = https://github.com/cget/grpc.cget
+[submodule "curl.cget"]
+	path = curl.cget
+	url = https://github.com/cget/curl.cget
+[submodule "mongoose.cget"]
+	path = mongoose.cget
+	url = https://github.com/cget/mongoose.cget
+[submodule ".cget"]
+	path = .cget
+	url = C:/Users/J/Source/all-modules//.cget
