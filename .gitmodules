@@ -25,3 +25,27 @@
 [submodule "cget-cli"]
 	path = cget-cli
 	url = git@github.com:cget/cget-cli.git
+[submodule "glew.cget"]
+	path = glew.cget
+	url = git@github.com:cget/glew.cget.git
+[submodule "file-type-utils"]
+	path = file-type-utils
+	url = git@github.com:cget/file-type-utils.git
+[submodule "MyGUI.cget"]
+	path = MyGUI.cget
+	url = git@github.com:cget/MyGUI.cget.git
+[submodule "Freetype.cget"]
+	path = Freetype.cget
+	url = git@github.com:cget/Freetype.cget.git
+[submodule "Libssh2.cget"]
+	path = Libssh2.cget
+	url = git@github.com:cget/Libssh2.cget.git
+[submodule "NanoGUI.cget"]
+	path = NanoGUI.cget
+	url = git@github.com:cget/NanoGUI.cget.git
+[submodule "SDL2.cget"]
+	path = SDL2.cget
+	url = git@github.com:cget/SDL2.cget.git
+[submodule "openvr.cget"]
+	path = openvr.cget
+	url = git@github.com:cget/openvr.cget.git
