@@ -19,3 +19,9 @@
 [submodule ".cget"]
 	path = .cget
 	url = C:/Users/J/Source/all-modules//.cget
+[submodule "gflags"]
+	path = gflags
+	url = git@github.com:gflags/gflags.git
+[submodule "cget-cli"]
+	path = cget-cli
+	url = git@github.com:cget/cget-cli.git
