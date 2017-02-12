@@ -49,3 +49,6 @@
 [submodule "openvr.cget"]
 	path = openvr.cget
 	url = git@github.com:cget/openvr.cget.git
+[submodule "wxWidgets.cget"]
+	path = wxWidgets.cget
+	url = git@github.com:cget/wxWidgets.cget.git
