@@ -18,7 +18,7 @@
 	url = https://github.com/cget/mongoose.cget
 [submodule ".cget"]
 	path = .cget
-	url = C:/Users/J/Source/all-modules//.cget
+	url = git@github.com:cget/cget-core.git
 [submodule "gflags"]
 	path = gflags
 	url = git@github.com:gflags/gflags.git
